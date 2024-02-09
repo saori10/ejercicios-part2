@@ -5,5 +5,6 @@ print("Yo estudio ",subjects[2])
 print("Yo estudio ",subjects[3])
 print("Yo estudio ",subjects[4])"""
 
+# Uso del for:
 for subject in subjects:
     print("Yo estudio" , subject)
